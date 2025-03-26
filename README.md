@@ -1,4 +1,4 @@
-# 🎯 [Título del Proyecto]
+# 🎯 App generador de QR
 
 Generador de Códigos QR hecho con Python y Tkinter.
 
